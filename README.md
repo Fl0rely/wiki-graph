@@ -9,3 +9,6 @@ Le programme a pour but de Diviser ce graphe en sous communauté en étudiant le
 Voir la présentation PDF pour plus de détail
 
 ![Image d'exemple](img_final_v9.pdf)
+
+![Uploading communauté_4.png…]()
+
